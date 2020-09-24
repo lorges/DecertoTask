@@ -1,6 +1,7 @@
 package com.decerto.service;
 
 import com.decerto.strategy.JoinDataStrategy;
+import com.decerto.utils.IDataProviderService;
 import org.springframework.stereotype.Service;
 
 @Service

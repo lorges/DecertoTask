@@ -1,4 +1,4 @@
-package com.decerto.service;
+package com.decerto.utils;
 
 public interface IDataProviderService {
     Integer getIntegerValue();
